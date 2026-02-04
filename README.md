@@ -1,2 +1,2 @@
 # Module4
-Python course - Module 4: Functions &amp; Modules in Python
+Python course - Module 3: Functions &amp; Modules in Python
